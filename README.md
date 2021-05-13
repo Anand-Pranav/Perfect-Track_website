@@ -11,4 +11,4 @@ This is a shopping website which is created using html and css.Payment Gateway a
 Project is created with
 * [HTML](#HTML)
 * [CSS](#CSS)
-* [Visual studio code](#visual studio code)
+* Visual Studio Code
